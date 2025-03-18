@@ -39,6 +39,7 @@ git clone https://github.com/yourusername/Performance-Analysis.git
 Compile and run the experiments:
 
 javac Memory.java
+
 java Memory <size> <experiments> <seed>
 
 📌 Future Enhancements
