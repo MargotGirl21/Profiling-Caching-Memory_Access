@@ -40,7 +40,7 @@ Compile and run the experiments:
 
 javac Memory.java
 
-java Memory <size> <experiments> <seed>
+java Memory [size] [experiments] [seed]
 
 📌 Future Enhancements
 
